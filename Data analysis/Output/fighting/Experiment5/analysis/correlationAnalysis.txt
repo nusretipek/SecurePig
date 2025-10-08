@@ -1,0 +1,3 @@
+Pearson correlation between difference in Circling Count and Score Change: 
+r = 0.378, p = 0.0021
+=> Significant correlation (p < 0.05)
