@@ -1,0 +1,56 @@
+{
+  "title": "Analysis of pig appeasing pheromone effects on social behaviour and welfare in group-housed sows using computer vision",
+  "version": "1.0.0",
+  "publication_date": "2026-10-14",
+  "upload_type": "software",
+  "description": "Research code and supporting processed data accompanying the study \"Analysis of pig appeasing pheromone effects on social behaviour and welfare in group-housed sows using computer vision\". The study used a double-blind, replicated design to evaluate pig appeasing pheromone diffusers in groups of 16-20 gestating sows monitored continuously for 17 days. The repository supports the computer-vision pipeline for sow segmentation, identification and tracking; the automated analysis of movement, fighting, fleeing and displacement; tracking and behaviour-detection validation; skin-lesion and behavioural summaries; and the statistical analyses reported in the manuscript.",
+  "creators": [
+    {
+      "name": "Ipek, Nusret",
+      "orcid": "0000-0002-4507-0200",
+      "affiliation": "Department of Data Analysis and Mathematical Modelling, Ghent University, Coupure links 653, B-9000 Gent, Belgium"
+    },
+    {
+      "name": "Verwaeren, Jan",
+      "orcid": "0000-0001-9978-501X",
+      "affiliation": "Department of Data Analysis and Mathematical Modelling, Ghent University, Coupure links 653, B-9000 Gent, Belgium"
+    },
+    {
+      "name": "De Baets, Bernard",
+      "orcid": "0000-0002-3876-620X",
+      "affiliation": "Department of Data Analysis and Mathematical Modelling, Ghent University, Coupure links 653, B-9000 Gent, Belgium"
+    },
+    {
+      "name": "Tuyttens, Frank A. M.",
+      "orcid": "0000-0002-1348-218X",
+      "affiliation": "Animal Sciences Unit, ILVO, Burgemeester Van Gansberghelaan 119, 9090 Merelbeke-Melle, Belgium; Department of Veterinary and Biosciences, Faculty of Veterinary Medicine, Ghent University, Salisburylaan 133, 9820 Merelbeke-Melle, Belgium"
+    }
+  ],
+  "access_right": "open",
+  "license": "GPL-3.0-only",
+  "language": "eng",
+  "keywords": [
+    "pig appeasing pheromone",
+    "post-mixing aggression",
+    "gestating sows",
+    "animal welfare",
+    "automated monitoring",
+    "computer vision",
+    "individual tracking",
+    "zero-shot learning",
+    "agonistic behaviour",
+    "skin lesions"
+  ],
+  "communities": [
+    {
+      "identifier": "ugent"
+    }
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/nusretipek/SecurePig",
+      "relation": "isIdenticalTo",
+      "resource_type": "software"
+    }
+  ]
+}
